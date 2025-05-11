@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sir-apesalot
-- 👀 I’m interested in `interesting things`
-- 🌱 I’m currently learning `things that are interesting`
-- 💞️ I’m looking to collaborate on `things of interest`
+- 👋 Name's Sir Apesalot
 - 😄 Pronouns: `Based/Dev`
 
 <!---
