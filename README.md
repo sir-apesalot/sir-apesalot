@@ -1,4 +1,5 @@
 - 👋 Name's Sir Apesalot
+- 📓 Just an ape with a keyboard
 - 😄 Pronouns: `Based/Dev`
 
 <!---
