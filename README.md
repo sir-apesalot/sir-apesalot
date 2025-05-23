@@ -1,6 +1,5 @@
 - 👋 Name's Sir Apesalot
 - 📓 Just an ape with a keyboard
-- 😄 Pronouns: `Based/Dev`
 
 <!---
 sir-apesalot/sir-apesalot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
