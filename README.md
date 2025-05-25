@@ -1,5 +1,6 @@
 - 👋 Name's Sir Apesalot
-- 📓 Just an ape with a keyboard
+- 📓 Just an ape in a crown and armor
+- 👾 Currently working on https://github.com/cryptidznet
 
 <!---
 sir-apesalot/sir-apesalot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
